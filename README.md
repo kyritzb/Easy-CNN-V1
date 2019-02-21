@@ -6,6 +6,7 @@ What does this application do?
     easy for those who do not know how to use tensorflow. This app can only detect if a single object is present in an image or video. 
 
 Built using:
+
     -tensorflow CPU
     -Tkinter
 
