@@ -5,13 +5,13 @@ Computer Vision Tools
 This app was made by Bryan Kyritz in order to make the implication of Convolutionnal neural network(CNN) for image detection 
 easy for those who do not know how to use tensorflow. This app can only detect if a single object is present in an image or video. 
 
-## Built using:
+### Built using:
 
 1. Tensorflow CPU
 2. Tkinter
 
 
-## Features of the program
+### Features of the program
     
 Dataset development:
 
@@ -28,5 +28,5 @@ Additional Features:
 -Export code in textfile to be used by others
 -Generate video or image with detection 
         
-## Screenshots 
+### Screenshots 
 ![Example](https://i.imgur.com/Tt9m904.png)
