@@ -2,7 +2,7 @@
 Computer Vision Tools
 
 ## What does this application do?
-This app was made by Bryan Kyritz in order to make the implication of Convolutionnal neural network(CNN) easy. This app can only detect if a single object is present in an image or video and will return true or false if the object is in frame. The tool is used to generate the weights for the object which can be used by the user to implement into another project.
+This app was made by Bryan Kyritz in order to make the implication of Convolution neural network(CNN) easy. This app can only detect if a single object is present in an image or video and will return true or false if the object is in frame. The tool is used to generate the weights for the object which can be used by the user to implement into another project.
 
 ## Built using:
 
